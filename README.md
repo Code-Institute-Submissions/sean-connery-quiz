@@ -1,7 +1,7 @@
 # Sean Connery Movie Quotes Quiz
     A quiz game created as a tribute to Sir Thomas Sean Connery for his great perfomances on the big screen.
     The goal is to connect a quote, made by a Sean Connery movie character, to the corresponding film title from where the quote was taken.
-    Points is given for each correct answer.
+    Points are given for each correct answer.
 
 ## UX
 *   For all Sean connery fans, as well as others, this quiz was made to recall the brilliant actor that he was,
@@ -14,13 +14,19 @@
     the user will, in his/her mind, get to recall and experience that perticular sequence of the movie,
     and therefor inhence their memory of the fallen star. 
 
+*   The user would want clear instructions of what to do and how to navigate in the application.
+    Therefore, a short but distinct description of what the quiz is about will be displayed on the landing page.
+    The clearly defined buttons will then guide the user to achieve his/her goal.
+
 *   With the help of Restart button on the End Page the user can re experience the quotes and the actor as many times as they like.
 
-*   The overall colour theme for this site will be black due to the memorial aspect.
+*   The overall colour scheme for this site will be black due to the memorial aspect.
     A soft, dark red screen curtain as background together with a gold colour is then added for cinematic effect.
-    The red and green is neccesary to emphasize incorrect and correct answer.
+    The red and green is chosen to emphasize incorrect and correct answer.
 
-    The pictures are chosen with the intention of presenting the actor with the grace and respect that he deserves.
+*   The aim is toward a neat and solemn design, with the focus upon the quiz game and the character's quotes.
+
+*   The pictures are chosen with the intention of presenting the actor with the grace and respect that he deserves.
 
 *   Wirefames can be viewed [here](assets/wireframes/sean-connery-movie-quote-quiz.pdf)
 
@@ -37,7 +43,7 @@
     The quiz will then proceed to the next quote.
     If the incorrect button/title was clicked, the button will light up red and no point will be added to score.
     The quiz will then proceed to the next quote.
-    A qoute counter is displayed, so the user can follow the progress of the quiz.
+    A quote counter is displayed, so the user can follow the progress of the quiz.
     The score counter will update after each quote to give the user the current amount of correct answers.
     
     When the user has reached the final quote of the quiz the user will be directed to an end page
@@ -46,6 +52,8 @@
 
 ### Features Left to Implement
 *   A form where the users can contribute to the quiz with additional quotes of thier own choise.
+
+*   A button linked to an audio file that will give the user recorded quotes by Sean Connery. 
 
 ## Technologies Used
 *In this section, you should mention all of the languages, frameworks, libraries,*

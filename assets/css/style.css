@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-size: 6.25%;
+}
+
+body {
+    font-size: 16rem;
+    color: gold;
+    background-color: black;
+}
