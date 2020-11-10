@@ -1,0 +1,388 @@
+[
+    {
+        "quote":"“We'll either both get caught or both get dead.”",
+        "filmTitle1":"Entrapment",
+        "filmTitle2":"Just Cause",
+        "filmTitle3":"The Untouchables",
+        "filmTitle4":"Indiana Jones and the Last Crusade",
+        "correctAnswer": 1
+    },
+
+        {
+        "quote":"“I have a unique knowledge of this prison facility. I was formerly a guest here.”",
+        "filmTitle1":"The Presidio",
+        "filmTitle2":"Indiana Jones and the Last Crusade",
+        "filmTitle3":"The Rock",
+        "filmTitle4":"The Russia House",
+        "correctAnswer": 3
+    },
+    
+            {
+        "quote":"“Late 14th Ming Dynasty. Oh it breaks the heart.”",
+        "filmTitle1":"Family Business",
+        "filmTitle2":"Diamonds Are Forever",
+        "filmTitle3":"Rising Sun",
+        "filmTitle4":"Indiana Jones and the Last Crusade",
+        "correctAnswer": 4
+    },
+
+        {
+        "quote":"“Rule number one: never carry a gun. If you carry a gun you may be tempted to use it.”",
+        "filmTitle1":"Never Say Never Again",
+        "filmTitle2":"The Rock",
+        "filmTitle3":"The Untouchables",
+        "filmTitle4":"Entrapment",
+        "correctAnswer": 4
+    },
+    
+            {
+        "quote":"“Rule number two: never trust a naked woman.”",
+        "filmTitle1":"You Only Live Twice",
+        "filmTitle2":"Entrapment",
+        "filmTitle3":"Indiana Jones and the Last Crusade",
+        "filmTitle4":"From Russia with Love",
+        "correctAnswer": 2
+    },
+
+        {
+        "quote":"“I want a room with water which is sometimes hot. If there's a bath to put it in, I wouldn't mind.”",
+        "filmTitle1":"Rising Sun",
+        "filmTitle2":"Dr. No",
+        "filmTitle3":"Cuba",
+        "filmTitle4":"A Good Man in Africa",
+        "correctAnswer": 3
+    },
+    
+            {
+        "quote":"“If you can't do it with one bullet, don't do it at all.”",
+        "filmTitle1":"The League of Extraordinary Gentlemen",
+        "filmTitle2":"Thunderball",
+        "filmTitle3":"The Untouchables",
+        "filmTitle4":"Dr. No",
+        "correctAnswer": 1
+    },
+
+        {
+        "quote":"“It's impossible. But doable.”",
+        "filmTitle1":"Indiana Jones and the Last Crusade",
+        "filmTitle2":"Entrapment",
+        "filmTitle3":"The League of Extraordinary Gentlemen",
+        "filmTitle4":"The First Great Train Robbery",
+        "correctAnswer": 2
+    },
+    
+            {
+        "quote":"“Weather is no longer in God's hands, but in mine.”",
+        "filmTitle1":"A Good Man in Africa",
+        "filmTitle2":"The Avengers",
+        "filmTitle3":"The Name of the Rose",
+        "filmTitle4":"Medicine Man",
+        "correctAnswer": 2
+    },
+
+        {
+        "quote":"“No respectable gentleman is that respectable.”",
+        "filmTitle1":"The First Great Train Robbery",
+        "filmTitle2":"Family Business",
+        "filmTitle3":"The Avengers",
+        "filmTitle4":"The Presidio",
+        "correctAnswer": 1
+    },
+    
+            {
+        "quote":"“A man who fears nothing is a man who loves nothing, and if you love nothing, what joy is there in your life?”",
+        "filmTitle1":"Finding Forrester",
+        "filmTitle2":"Highlander",
+        "filmTitle3":"The Rock",
+        "filmTitle4":"First Knight",
+        "correctAnswer": 4
+    },
+
+        {
+        "quote":"“If I knew the answers to everything I would be teaching theology in Paris.”",
+        "filmTitle1":"The Name of the Rose",
+        "filmTitle2":"Highlander",
+        "filmTitle3":"The Untouchables",
+        "filmTitle4":"A Good Man in Africa",
+        "correctAnswer": 1
+    },
+    
+            {
+        "quote":"“Why don't you stick a broom up my ass? I can sweep the carpet on the way out.”",
+        "filmTitle1":"Family Business",
+        "filmTitle2":"Meteor",
+        "filmTitle3":"Diamonds Are Forever",
+        "filmTitle4":"Never Say Never Again",
+        "correctAnswer": 2
+    },
+
+        {
+        "quote":"“Nothing is impossible, only mathematically improbable.”",
+        "filmTitle1":"The Avengers",
+        "filmTitle2":"Just Cause",
+        "filmTitle3":"Medicine Man",
+        "filmTitle4":"Indiana Jones and the Last Crusade",
+        "correctAnswer": 1
+    },
+    
+            {
+        "quote":"“Well, it's certainly more enjoyable than my average day... reading philosophy, avoiding gang rape in the washrooms... though, it's less of a problem these days. Maybe I'm losing my sex appeal.”",
+        "filmTitle1":"A Bridge Too Far",
+        "filmTitle2":"The Russia House",
+        "filmTitle3":"The Rock",
+        "filmTitle4":"Finding Forrester",
+        "correctAnswer": 3
+    },
+
+        {
+        "quote":"“In this sort of race, there's no silver medal for finishing second.”",
+        "filmTitle1":"Medicine Man",
+        "filmTitle2":"Highlander II: The Quickening",
+        "filmTitle3":"Indiana Jones and the Last Crusade",
+        "filmTitle4":"Thunderball",
+        "correctAnswer": 3
+    },
+    
+            {
+        "quote":"“Do you know what's true? When something sounds too good to be true, then it's not true.”",
+        "filmTitle1":"The Name of the Rose",
+        "filmTitle2":"Murder on the Orient Express",
+        "filmTitle3":"You Only Live Twice",
+        "filmTitle4":"Rising Sun",
+        "correctAnswer": 4
+    },
+
+        {
+        "quote":"“When you squeeze the nobility, it's the peasants who feel the pinch.”",
+        "filmTitle1":"The Name of the Rose",
+        "filmTitle2":"First Knight",
+        "filmTitle3":"Just Cause",
+        "filmTitle4":"DragonHeart",
+        "correctAnswer": 4
+    },
+    
+            {
+        "quote":"“The key to a woman's heart is an unexpected gift at an unexpected time.”",
+        "filmTitle1":"From Russia with Love",
+        "filmTitle2":"Finding Forrester",
+        "filmTitle3":"Robin and Marian",
+        "filmTitle4":"First Knight",
+        "correctAnswer": 2
+    },
+
+        {
+        "quote":"“It was my first good contract: real people for unreal arguments.”",
+        "filmTitle1":"The Russia House",
+        "filmTitle2":"The League of Extraordinary Gentlemen",
+        "filmTitle3":"Family Business",
+        "filmTitle4":"Dr. No",
+        "correctAnswer": 1
+    },
+    
+            {
+        "quote":"“I'm never late. If I'm late it's because I'm dead.”",
+        "filmTitle1":"Thunderball",
+        "filmTitle2":"Entrapment",
+        "filmTitle3":"The Presidio",
+        "filmTitle4":"A Bridge Too Far",
+        "correctAnswer": 2
+    },
+
+        {
+        "quote":"“You know... you're almost the only evidence that I exist.”",
+        "filmTitle1":"Outland",
+        "filmTitle2":"The Rock",
+        "filmTitle3":"DragonHeart",
+        "filmTitle4":"Finding Forrester",
+        "correctAnswer": 2
+    },
+    
+            {
+        "quote":"“If you're afraid of getting a rotten apple, don't go to the barrel. Get it off the tree.”",
+        "filmTitle1":"The Name of the Rose",
+        "filmTitle2":"DragonHeart",
+        "filmTitle3":"Rising Sun",
+        "filmTitle4":"The Untouchables",
+        "correctAnswer": 4
+    },
+
+        {
+        "quote":"“Come on. Let's pay our respects to the grieving widow before she falls flat on her face, drunk.”",
+        "filmTitle1":"Diamonds Are Forever",
+        "filmTitle2":"Family Business",
+        "filmTitle3":"Murder on the Orient Express",
+        "filmTitle4":"Cuba",
+        "correctAnswer": 2
+    },
+    
+            {
+        "quote":"“Ah, shit on a stick.”",
+        "filmTitle1":"The Presidio",
+        "filmTitle2":"The Russia House",
+        "filmTitle3":"Medicine Man",
+        "filmTitle4":"A Bridge Too Far",
+        "correctAnswer": 1
+    },
+
+        {
+        "quote":"“Never take what the enemy offers you.”",
+        "filmTitle1":"The Untouchables",
+        "filmTitle2":"A Bridge Too Far",
+        "filmTitle3":"Rising Sun",
+        "filmTitle4":"The League of Extraordinary Gentlemen",
+        "correctAnswer": 3
+    },
+    
+            {
+        "quote":"“There's a peace only to be found on the other side of war. If that war should come I will fight it!”",
+        "filmTitle1":"A Bridge Too Far",
+        "filmTitle2":"The Hunt for Red October",
+        "filmTitle3":"The Avengers",
+        "filmTitle4":"First Knight",
+        "correctAnswer": 4
+    },
+
+        {
+        "quote":"“You just fulfilled the first rule of law enforcement: make sure when your shift is over you go home alive.”",
+        "filmTitle1":"The Untouchable",
+        "filmTitle2":"Just Cause",
+        "filmTitle3":"The League of Extraordinary Gentlemen",
+        "filmTitle4":"The Presidio",
+        "correctAnswer": 1
+    },
+    
+            {
+        "quote":"“And if it's true love, then you start to see yourself through their eyes. And it brings out the best in you. It's almost as if you're falling in love with yourself.”",
+        "filmTitle1":"You Only Live Twice",
+        "filmTitle2":"Playing by Heart",
+        "filmTitle3":"Robin and Marian",
+        "filmTitle4":"Cuba",
+        "correctAnswer": 2
+    }
+
+        {
+        "quote":"“You risked your life for another. There is no greater love.”",
+        "filmTitle1":"First Knight",
+        "filmTitle2":"Robin Hood: Prince of Thieves",
+        "filmTitle3":"A Good Man in Africa",
+        "filmTitle4":"DragonHeart",
+        "correctAnswer": 1
+    },
+    
+            {
+        "quote":"“There are laws that enslave men, and laws that set them free.”",
+        "filmTitle1":"Outland",
+        "filmTitle2":"The Rock",
+        "filmTitle3":"First Knight",
+        "filmTitle4":"Highlander",
+        "correctAnswer": 3
+    },
+
+        {
+        "quote":"“Only a fool wants what he can not have.”",
+        "filmTitle1":"Highlander",
+        "filmTitle2":"Indiana Jones and the Last Crusade",
+        "filmTitle3":"The Hunt for Red October",
+        "filmTitle4":"First Knight",
+        "correctAnswer": 4
+    },
+    
+            {
+        "quote":"“Monkeys do not laugh. Laughter is particular to man.“",
+        "filmTitle1":"Outland",
+        "filmTitle2":"Medicine Man",
+        "filmTitle3":"The Name of the Rose",
+        "filmTitle4":"Zardoz",
+        "correctAnswer": 3
+    },
+
+        {
+        "quote":"“You won't be needing this, old man!”",
+        "filmTitle1":"From Russia with Love",
+        "filmTitle2":"The First Great Train Robbery",
+        "filmTitle3":"You Only Live Twice",
+        "filmTitle4":"Murder on the Orient Express",
+        "correctAnswer": 1
+    },
+    
+            {
+        "quote":"“I can assure you, my intentions are strictly honorable.”",
+        "filmTitle1":"Playing by Heart",
+        "filmTitle2":"Entrapment",
+        "filmTitle3":"The Russia House",
+        "filmTitle4":"Dr. No",
+        "correctAnswer": 4
+    },
+
+        {
+        "quote":"“My dear girl, don't flatter yourself. What I did this evening was for king and country. You don't think it gave me any pleasure, do you?“",
+        "filmTitle1":"From Russia with Love",
+        "filmTitle2":"Thunderball",
+        "filmTitle3":"Dr. No",
+        "filmTitle4":"Diamonds Are Forever",
+        "correctAnswer": 2
+    },
+    
+            {
+        "quote":"“I think he got the point.“",
+        "filmTitle1":"Rising Sun",
+        "filmTitle2":"Indiana Jones and the Last Crusade",
+        "filmTitle3":"Thunderball",
+        "filmTitle4":"DragonHeart",
+        "correctAnswer": 3
+    },
+
+        {
+        "quote":"“We must have a few fast falls together some time”",
+        "filmTitle1":"Dr. No",
+        "filmTitle2":"Goldfinger",
+        "filmTitle3":"You Only Live Twice",
+        "filmTitle4":"Never Say Never Again",
+        "correctAnswer": 1
+    },
+    
+            {
+        "quote":"“My dear girl, there are some things that just aren't done, such as drinking Dom Perignon '53 above the temperature of 38 degrees Fahrenheit. That's just as bad as listening to the Beatles without earmuffs!”",
+        "filmTitle1":"From Russia with Love",
+        "filmTitle2":"Diamonds Are Forever",
+        "filmTitle3":"Never Say Never Again",
+        "filmTitle4":"Goldfinger",
+        "correctAnswer": 4
+    },
+
+        {
+        "quote":"“Presumably I'm the condemned man and obviously you're the hearty breakfast.”",
+        "filmTitle1":"Diamonds Are Forever",
+        "filmTitle2":"The Avengers",
+        "filmTitle3":"Entrapment",
+        "filmTitle4":"The League of Extraordinary Gentlemen",
+        "correctAnswer": 1
+    },
+    
+            {
+        "quote":"“What's the Americans' story on how the damn things were stolen?”",
+        "filmTitle1":"Diamonds Are Forever",
+        "filmTitle2":"Never Say Never Again",
+        "filmTitle3":"Indiana Jones and the Last Crusade",
+        "filmTitle4":"Entrapment",
+        "correctAnswer": 2
+    },
+
+        {
+        "quote":"“I thought everyone knew that God was a Scotsman.”",
+        "filmTitle1":"Dr. No",
+        "filmTitle2":"The Rock",
+        "filmTitle3":"Playing by Heart",
+        "filmTitle4":"A Bridge Too Far",
+        "correctAnswer": 4
+    },
+    
+            {
+        "quote":"“That's a Smith & Wesson, and you've had your six.”",
+        "filmTitle1":"The Untouchables",
+        "filmTitle2":"Indiana Jones and the Last Crusade",
+        "filmTitle3":"Dr. No",
+        "filmTitle4":"You Only Live Twice",
+        "correctAnswer": 3
+    }
+]
