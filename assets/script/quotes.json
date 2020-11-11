@@ -98,15 +98,6 @@
         "correctAnswer": 4
     },
 
-        {
-        "quote":"“If I knew the answers to everything I would be teaching theology in Paris.”",
-        "filmTitle1":"The Name of the Rose",
-        "filmTitle2":"Highlander",
-        "filmTitle3":"The Untouchables",
-        "filmTitle4":"A Good Man in Africa",
-        "correctAnswer": 1
-    },
-    
             {
         "quote":"“Why don't you stick a broom up my ass? I can sweep the carpet on the way out.”",
         "filmTitle1":"Family Business",
@@ -258,7 +249,7 @@
         "filmTitle3":"Robin and Marian",
         "filmTitle4":"Cuba",
         "correctAnswer": 2
-    }
+    },
 
         {
         "quote":"“You risked your life for another. There is no greater love.”",

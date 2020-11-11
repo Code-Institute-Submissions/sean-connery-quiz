@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700;800&display=swap');
+
+/* -------- default settings -------- */
+
 * {
     margin: 0;
     padding: 0;
@@ -7,8 +11,77 @@
     font-size: 6.25%;
 }
 
+/* -------- Generic Settings -------- */
+
 body {
-    font-size: 16rem;
-    color: gold;
-    background-color: black;
+    font-family: 'EB Garamond', sans-serif;
+    color: rgb(200, 190, 190);
+    background-color: rgb(15, 7, 0);
+}
+
+/* -------- Image -------- */
+
+.landing-img {
+    width: 100%;
+    height: auto;
+    margin-top: 50rem;
+    margin-bottom: 10rem;
+}
+
+/* -------- Content -------- */
+
+.landing-text {
+    font-size: 20rem;
+    padding: 10rem 0 0 0;
+}
+
+/* -------- Buttons -------- */
+
+.start-btn {
+    height: auto;
+    width: 100%;
+    border-radius: 3rem;
+    padding: 0;
+    border: 1rem solid rgb(200, 190, 190);
+}
+
+.start-btn:hover,
+.start-btn:active {
+    cursor: pointer;
+    box-shadow: 0 1.2rem 10rem 0 rgb(200, 190, 190);
+    transform: translateY(-1rem);
+    transition: transform 150ms;
+}
+
+.start-btn-text {
+    width: 100%;
+    font-weight: 700;
+    color: rgb(200, 190, 190);
+    padding-bottom: 1rem; 
+}
+
+
+.start-btn-text:hover,
+.start-btn-text:active {
+    color: rgb(200, 190, 190);
+}
+
+/* -------- Media Queries -------- */
+
+@media screen and (max-width: 350px) {
+.start-btn {
+    margin-top: 15rem; 
+  }
+}
+
+@media (min-width: 351px) and (max-width: 990px) {
+.start-btn {
+    margin-top: 30rem; 
+  }
+}
+
+@media (min-width: 410px) and (max-width: 760px) {
+.landing-text {
+    padding-bottom: 30rem; 
+  }
 }
