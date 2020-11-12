@@ -24,7 +24,7 @@ body {
 .landing-img {
     width: 100%;
     height: auto;
-    margin-top: 50rem;
+    margin-top: 30rem;
     margin-bottom: 10rem;
 }
 
@@ -42,28 +42,29 @@ body {
     width: 100%;
     border-radius: 3rem;
     padding: 0;
-    border: 1rem solid rgb(200, 190, 190);
+    border: 1.5rem solid rgb(241, 190, 122);
 }
 
 .start-btn:hover,
 .start-btn:active {
     cursor: pointer;
-    box-shadow: 0 1.2rem 10rem 0 rgb(200, 190, 190);
+    box-shadow: 0 1.2rem 10rem 0 rgb(241, 190, 122);
     transform: translateY(-1rem);
     transition: transform 150ms;
 }
 
 .start-btn-text {
     width: 100%;
+    font-size: 16rem;
     font-weight: 700;
-    color: rgb(200, 190, 190);
+    color: rgb(241, 190, 122);
     padding-bottom: 1rem; 
 }
 
 
 .start-btn-text:hover,
 .start-btn-text:active {
-    color: rgb(200, 190, 190);
+    color: rgb(241, 190, 122);
 }
 
 /* -------- Media Queries -------- */
@@ -83,5 +84,25 @@ body {
 @media (min-width: 410px) and (max-width: 760px) {
 .landing-text {
     padding-bottom: 30rem; 
+  }
+}
+
+@media (min-height: 850px){
+.landing-img {
+    margin-top: 50rem; 
+  }
+}
+
+@media (min-height: 1300px){
+.landing-img {
+    margin-top: 200rem; 
+  }
+
+.start-btn {
+    margin-top: 100rem;  
+  }
+
+.start-btn-text{
+    font-size: 20rem;
   }
 }
