@@ -1,0 +1,24 @@
+body {
+    color: rgb(241, 190, 122);
+}
+
+/* -------- Image Header -------- */
+
+.img-header {
+    margin-top: 10%;
+}
+
+/* -------- Image -------- */
+
+.end-img {
+    width: 100%;
+    height: auto;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+/* -------- Total Score -------- */
+
+.total-score {
+    margin: 10% 0 10% 0;
+}

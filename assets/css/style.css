@@ -7,10 +7,6 @@
     padding: 0;
 }
 
-:root {
-    font-size: 6.25%;
-}
-
 /* -------- Generic Settings -------- */
 
 body {
@@ -24,15 +20,15 @@ body {
 .landing-img {
     width: 100%;
     height: auto;
-    margin-top: 30rem;
-    margin-bottom: 10rem;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
 }
 
 /* -------- Content -------- */
 
 .landing-text {
-    font-size: 20rem;
-    padding: 10rem 0 0 0;
+    font-size: 1.2rem;
+    padding: 0.5rem 0 0 0;
 }
 
 /* -------- Buttons -------- */
@@ -40,26 +36,25 @@ body {
 .start-btn {
     height: auto;
     width: 100%;
-    border-radius: 3rem;
-    margin-top: 15rem;
+    border-radius: 0.2rem;
+    margin-top: 1.5rem;
     padding: 0;
-    border: 1.5rem solid rgb(241, 190, 122);
+    border: 0.08rem solid rgb(241, 190, 122);
 }
 
 .start-btn:hover,
 .start-btn:active {
     cursor: pointer;
-    box-shadow: 0 1.2rem 10rem 0 rgb(241, 190, 122);
-    transform: translateY(-1rem);
+    box-shadow: 0 0.2rem 1rem 0 rgb(241, 190, 122);
+    transform: translateY(-0.1rem);
     transition: transform 150ms;
 }
 
 .start-btn-text {
     width: 100%;
-    font-size: 16rem;
-    font-weight: 700;
+    font-size: 0.8rem;
     color: rgb(241, 190, 122);
-    padding-bottom: 1rem; 
+    font-weight: 600;
 }
 
 
@@ -72,27 +67,27 @@ body {
 
 @media (min-width: 410px) and (max-width: 1100px) {
 .landing-text {
-    padding-bottom: 30rem; 
+    padding-bottom: 1rem; 
   }
 }
 
 @media (min-height: 850px) {
 .landing-img {
-    margin-top: 50rem; 
+    margin-top: 2rem; 
   }
 
 .start-btn-text{
-    font-size: 20rem;
+    font-size: 1rem;
   }
 }
 
 @media (min-height: 1280px) {
 .landing-img {
-    margin-top: 200rem; 
+    margin-top: 10rem; 
   }
 
 .start-btn {
-    margin-top: 100rem;  
+    margin-top: 10rem;  
   }
 }
 

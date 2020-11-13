@@ -1,0 +1,91 @@
+/* -------- Quotes -------- */
+
+.scoreboard {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    color: rgb(241, 190, 122);
+}
+
+.score-number {
+    padding-left: 90%;
+}
+
+/* -------- Background Image -------- */
+
+
+.quotes-frame {
+    height: auto;
+    width: 100%;
+    margin-bottom: 5%;
+    position: relative;
+}
+
+/* -------- Quotes -------- */
+
+.quote-box {
+    position: absolute;
+    top: 20%;
+    left: 0;
+    width: 100%;
+    font-size: 1rem;
+    color: rgb(241, 190, 122);    
+}
+
+/* ----------- Buttons ----------- */
+
+.movie-title-btn{
+    border: 0.08rem solid rgb(241, 190, 122);
+    color: rgb(241, 190, 122);
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 0.5rem;
+    padding-bottom: 0.6rem;
+    border-radius: 0.1rem;
+}
+
+.movie-title-btn:hover,
+.movie-title-btn:active {
+    cursor: pointer;
+    box-shadow: 0 0.2rem 1rem 0 rgb(241, 190, 122);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
+
+.correct:hover,
+.correct {
+    border: 0.08rem solid rgb(0, 204, 0);
+    color: rgb(0, 204, 0);
+    cursor: pointer;
+    box-shadow: 0 0.2rem 1rem 0 rgb(0, 204, 0);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
+
+.incorrect:hover,
+.incorrect {
+    border: 0.08rem solid rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+    box-shadow: 0 0.2rem 1rem 0 rgb(255, 0, 0);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
+
+/* -------- Media Queries -------- */
+
+@media (min-width: 1100px) {
+.quotes-frame {
+    width: 75%;
+    margin: 0; 
+  }
+
+.quote-box{
+    font-size: 2rem;  
+  }
+}
+
+@media (max-width: 600px) {
+.quotes-frame {
+    height: 20rem; 
+  }
+}
