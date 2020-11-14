@@ -4,8 +4,13 @@ body {
 
 /* -------- Image Header -------- */
 
-.img-header {
-    margin-top: 10%;
+.img-header-text {
+    font-size: 2rem;
+    margin-top: 5rem;
+}
+
+.img-header-number {
+    font-size: 1.5rem;
 }
 
 /* -------- Image -------- */
@@ -13,12 +18,69 @@ body {
 .end-img {
     width: 100%;
     height: auto;
-    margin-top: 2rem;
+    margin-top: 1rem;
     margin-bottom: 0.5rem;
 }
 
 /* -------- Total Score -------- */
 
 .total-score {
-    margin: 10% 0 10% 0;
+    margin: 2rem 0 2rem 0;
+}
+
+.total-score-text {
+    font-size: 1.5rem;
+    padding: 0.5rem 0 0 1.5rem;
+}
+
+.total-score-number {
+    font-size: 2rem;
+    padding-left: 3rem;
+}
+
+/* -------- Media Queries -------- */
+
+@media (min-width: 768px) {
+    .total-score-number {
+        font-size: 2.5rem;
+        padding-left: 5rem;
+  }
+
+    .total-score-text {
+        font-size: 2rem;
+  }
+ 
+    .img-header-text {
+        font-size: 3rem;
+  }
+
+    .img-header-number {
+        font-size: 2.5rem;
+  }
+}
+
+@media (min-width: 1100px) {
+    .img-header-text {
+        margin-top: 2rem;
+  }
+}
+
+@media (min-height: 1280px) {
+    .img-header-text {
+        margin-top: 10rem;
+    }
+
+    .start-btn{
+        margin-top: 5rem;
+    }
+
+    .end-img{
+        margin: 3rem 0 5rem 0;
+    }
+}
+
+@media (max-height: 670px) {
+    .img-header-text {
+        margin-top: 2rem;
+  }
 }

@@ -23,11 +23,11 @@
 /* -------- Quotes -------- */
 
 .quote-box {
-    position: absolute;
-    top: 20%;
-    left: 0;
-    width: 100%;
-    font-size: 1rem;
+    position: fixed;
+    top: 9rem;
+    left: 3.5rem;
+    right: 3.5rem;
+    font-size: 1.1rem;
     color: rgb(241, 190, 122);    
 }
 
@@ -73,19 +73,93 @@
 
 /* -------- Media Queries -------- */
 
-@media (min-width: 1100px) {
-.quotes-frame {
-    width: 75%;
-    margin: 0; 
-  }
-
-.quote-box{
-    font-size: 2rem;  
+@media (max-width: 600px) {
+    .quotes-frame {
+        height: 20rem; 
   }
 }
 
-@media (max-width: 600px) {
-.quotes-frame {
-    height: 20rem; 
+@media (min-width: 480px) and (max-width: 766px) {
+    .quote-box {
+        top: 12rem;
+        left: 9rem;
+        right: 9rem;  
+  }
+}
+
+@media (min-width: 767px) {
+    .quote-box {
+        font-size: 1.5rem;
+        top: 14rem;
+        left: 12rem;
+        right: 12rem;  
+  }
+    .movie-title-btn {
+        font-size: 1.4rem;
+  
+  }
+    .scoreboard {
+        font-size: 1.4rem;
+        margin-top: 4rem;
+  } 
+
+}
+
+@media (min-height: 750px) {
+    .quotes-frame {
+        margin-bottom: 7rem;
+    }
+}
+
+@media (min-width: 990px) and (max-width: 1199px) {
+    .quote-box {
+        font-size: 1.5rem;
+        top: 18rem;
+        left: 18rem;
+        right: 18rem;  
+  }
+}
+
+@media (min-width: 1100px) {
+    .quotes-frame {
+        width: 75%;
+        margin: 0; 
+  }
+    .quote-box {
+        font-size: 1.8rem;
+        top: 15rem;
+        left: 25rem;
+        right: 25rem;
+        
+  }
+      .scoreboard {
+        font-size: 1.6rem;
+        margin-top: 2rem;
+  }
+}
+
+@media (min-width: 1400px) {
+    .quote-box {
+        font-size: 1.8rem;
+        top: 15rem;
+        left: 30rem;
+        right: 30rem;
+  }
+}
+
+@media (max-height: 670px) {
+    .quotes-frame {
+        height: 15rem; 
+  }
+    .quote-box {
+        top: 7.5rem;
+        font-size: 1rem;
+        line-height: 1.1rem;
+ }
+    .scoreboard {
+        margin-top: 1rem;
+  }
+    .scoreboard-numbers {
+        font-size: 2rem;
   }
 }
