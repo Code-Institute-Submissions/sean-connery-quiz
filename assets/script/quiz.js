@@ -3,6 +3,8 @@ const quote = document.getElementById("quote");
 const movieTitles = Array.from(document.getElementsByClassName("movie-title-text"));
 const quoteCounterText = document.getElementById("quoteCounter");
 const scoreText = document.getElementById("score");
+const loader = document.getElementById("loader");
+const quiz = document.getElementById("quiz");
 
 // Declare variables
 let currentQuote = {};
@@ -35,6 +37,8 @@ startQuiz = () => {
     score = 0;
     availableQuotes = [...quotes];
     getNewQuote();
+    quiz.classList.remove("invisible");
+    loader.classList.add("invisible");
 };
 
 // Pull a random quote with movie titles from the quotes array and display them on the page.
@@ -89,7 +93,7 @@ movieTitles.forEach((movieTitle) => {
         setTimeout(() => {        
             selectedMovieTitle.classList.remove(classToApply);
             getNewQuote();
-        }, 2000);
+        }, 1200);
     });
 });
 

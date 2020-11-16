@@ -103,7 +103,7 @@
 
 
 ## Credits
-
+*Loader https://codepen.io/lauraedw/pen/RPOoJy
 ### Content
 *The text for section Y was copied from the Wikipedia article Z*
 ### Media
