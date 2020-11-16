@@ -1,86 +1,71 @@
-body {
+/* -------- Scoreboard -------- */
+
+.scoreboard {
     color: rgb(241, 190, 122);
+    margin-top: 3rem;
+    margin-bottom: 2rem;
 }
 
-/* -------- Image Header -------- */
-
-.img-header-text {
-    font-size: 2rem;
-    margin-top: 5rem;
-}
-
-.img-header-number {
+.score-text {
     font-size: 1.5rem;
+    margin-top: 0.3rem;
 }
 
 /* -------- Image -------- */
 
-.end-img {
-    width: 100%;
-    height: auto;
-    margin-top: 1rem;
-    margin-bottom: 0.5rem;
+.quotes-frame {
+    margin-bottom: 5rem;
 }
 
-/* -------- Total Score -------- */
+/* ----------- Buttons ----------- */
 
-.total-score {
-    margin: 2rem 0 2rem 0;
-}
-
-.total-score-text {
-    font-size: 1.5rem;
-    padding: 0.5rem 0 0 1.5rem;
-}
-
-.total-score-number {
-    font-size: 2rem;
-    padding-left: 3rem;
+.start-btn {
+    margin-top: 0.5rem;
 }
 
 /* -------- Media Queries -------- */
 
 @media (min-width: 768px) {
-    .total-score-number {
-        font-size: 2.5rem;
-        padding-left: 5rem;
-  }
-
-    .total-score-text {
+    .score-number {
+        padding-right: 3rem;
+    }
+    .score-text {
         font-size: 2rem;
-  }
- 
-    .img-header-text {
+    }
+    .score-number {
         font-size: 3rem;
-  }
+    }
+}
 
-    .img-header-number {
-        font-size: 2.5rem;
-  }
+@media (min-height: 750px) {
+    .quotes-frame {
+        margin-bottom: 7rem;
+    }
+    .scoreboard {
+        margin-top: 6rem;
+    }
 }
 
 @media (min-width: 1100px) {
-    .img-header-text {
-        margin-top: 2rem;
-  }
+    .quotes-frame {
+        margin-bottom: 3rem;
+    }
+    .score-number {
+        padding-right: 6rem;
+    }
 }
 
-@media (min-height: 1280px) {
-    .img-header-text {
+@media (min-width: 1100px) and (max-height: 880px) {
+    .scoreboard {
+        margin-bottom: 1rem;
+    }
+    .scoreboard {
+        margin-top: 2.5rem;
+    }
+}
+
+@media (min-height: 1280px) and (max-width: 1100px) {
+    .scoreboard {
         margin-top: 10rem;
     }
-
-    .start-btn{
-        margin-top: 5rem;
-    }
-
-    .end-img{
-        margin: 3rem 0 5rem 0;
-    }
-}
-
-@media (max-height: 670px) {
-    .img-header-text {
-        margin-top: 2rem;
-  }
 }

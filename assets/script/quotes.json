@@ -7,7 +7,6 @@
         "movieTitle4": "Indiana Jones and the Last Crusade",
         "correctAnswer": 1
     },
-
         {
         "quote": "I have a unique knowledge of this prison facility. I was formerly a guest here",
         "movieTitle1": "The Presidio",
@@ -15,8 +14,7 @@
         "movieTitle3": "The Rock",
         "movieTitle4": "The Russia House",
         "correctAnswer": 3
-    },
-    
+    },  
         {
         "quote": "Late 14th Ming Dynasty. Oh it breaks the heart.",
         "movieTitle1": "Family Business",
@@ -25,7 +23,6 @@
         "movieTitle4": "Indiana Jones and the Last Crusade",
         "correctAnswer": 4
     },
-
         {
         "quote": "Rule number one: never carry a gun. If you carry a gun you may be tempted to use it.",
         "movieTitle1": "Never Say Never Again",
@@ -33,8 +30,7 @@
         "movieTitle3": "The Untouchables",
         "movieTitle4": "Entrapment",
         "correctAnswer": 4
-    },
-    
+    },  
         {
         "quote": "Rule number two: never trust a naked woman.",
         "movieTitle1": "You Only Live Twice",
@@ -43,7 +39,6 @@
         "movieTitle4": "From Russia with Love",
         "correctAnswer": 2
     },
-
         {
         "quote": "I want a room with water which is sometimes hot. If there's a bath to put it in, I wouldn't mind.",
         "movieTitle1": "Rising Sun",
@@ -51,8 +46,7 @@
         "movieTitle3": "Cuba",
         "movieTitle4": "A Good Man in Africa",
         "correctAnswer": 3
-    },
-    
+    },  
         {
         "quote": "If you can't do it with one bullet, don't do it at all.",
         "movieTitle1": "The League of Extraordinary Gentlemen",
@@ -61,7 +55,6 @@
         "movieTitle4": "Dr. No",
         "correctAnswer": 1
     },
-
         {
         "quote": "It's impossible. But doable.",
         "movieTitle1": "Indiana Jones and the Last Crusade",
@@ -69,8 +62,7 @@
         "movieTitle3": "The League of Extraordinary Gentlemen",
         "movieTitle4": "The First Great Train Robbery",
         "correctAnswer": 2
-    },
-    
+    },  
         {
         "quote": "Weather is no longer in God's hands, but in mine.",
         "movieTitle1": "A Good Man in Africa",
@@ -79,7 +71,6 @@
         "movieTitle4": "Medicine Man",
         "correctAnswer": 2
     },
-
         {
         "quote": "No respectable gentleman is that respectable.",
         "movieTitle1": "The First Great Train Robbery",
@@ -87,8 +78,7 @@
         "movieTitle3": "The Avengers",
         "movieTitle4": "The Presidio",
         "correctAnswer": 1
-    },
-    
+    },  
         {
         "quote": "A man who fears nothing is a man who loves nothing, and if you love nothing, what joy is there in your life?",
         "movieTitle1": "Finding Forrester",
@@ -97,7 +87,6 @@
         "movieTitle4": "First Knight",
         "correctAnswer": 4
     },
-
         {
         "quote": "Why don't you stick a broom up my ass? I can sweep the carpet on the way out.",
         "movieTitle1": "Family Business",
@@ -106,7 +95,6 @@
         "movieTitle4": "Never Say Never Again",
         "correctAnswer": 2
     },
-
         {
         "quote": "Nothing is impossible, only mathematically improbable.",
         "movieTitle1": "The Avengers",
@@ -114,8 +102,7 @@
         "movieTitle3": "Medicine Man",
         "movieTitle4": "Indiana Jones and the Last Crusade",
         "correctAnswer": 1
-    },
-    
+    },  
         {
         "quote": "Well, it's certainly more enjoyable than my average day... reading philosophy, avoiding gang rape in the washrooms... though, it's less of a problem these days. Maybe I'm losing my sex appeal.",
         "movieTitle1": "A Bridge Too Far",
@@ -124,7 +111,6 @@
         "movieTitle4": "Finding Forrester",
         "correctAnswer": 3
     },
-
         {
         "quote": "In this sort of race, there's no silver medal for finishing second.",
         "movieTitle1": "Medicine Man",
@@ -132,17 +118,15 @@
         "movieTitle3": "Indiana Jones and the Last Crusade",
         "movieTitle4": "Thunderball",
         "correctAnswer": 3
-    },
-    
+    },  
         {
         "quote": "Do you know what's true? When something sounds too good to be true, then it's not true.",
         "movieTitle1": "The Name of the Rose",
         "movieTitle2": "Murder on the Orient Express",
         "movieTitle3": "You Only Live Twice",
         "movieTitle4": "Rising Sun",
-        "movieectAnswer": 4
+        "correctAnswer": 4
     },
-
         {
         "quote": "When you squeeze the nobility, it's the peasants who feel the pinch.",
         "movieTitle1": "The Name of the Rose",
@@ -150,8 +134,7 @@
         "movieTitle3": "Just Cause",
         "movieTitle4": "DragonHeart",
         "correctAnswer": 4
-    },
-    
+    },   
         {
         "quote": "The key to a woman's heart is an unexpected gift at an unexpected time.",
         "movieTitle1": "From Russia with Love",
@@ -160,7 +143,6 @@
         "movieTitle4": "First Knight",
         "correctAnswer": 2
     },
-
         {
         "quote": "It was my first good contract: real people for unreal arguments.",
         "movieTitle1": "The Russia House",
@@ -168,8 +150,7 @@
         "movieTitle3": "Family Business",
         "movieTitle4": "Dr. No",
         "correctAnswer": 1
-    },
-    
+    },   
         {
         "quote": "I'm never late. If I'm late it's because I'm dead.",
         "movieTitle1": "Thunderball",
@@ -178,7 +159,6 @@
         "movieTitle4": "A Bridge Too Far",
         "correctAnswer": 2
     },
-
         {
         "quote": "You know... you're almost the only evidence that I exist.",
         "movieTitle1": "Outland",
@@ -186,8 +166,7 @@
         "movieTitle3": "DragonHeart",
         "movieTitle4": "Finding Forrester",
         "correctAnswer": 2
-    },
-    
+    },  
         {
         "quote": "If you're afraid of getting a rotten apple, don't go to the barrel. Get it off the tree.",
         "movieTitle1": "The Name of the Rose",
@@ -196,7 +175,6 @@
         "movieTitle4": "The Untouchables",
         "correctAnswer": 4
     },
-
         {
         "quote": "Come on. Let's pay our respects to the grieving widow before she falls flat on her face, drunk.",
         "movieTitle1": "Diamonds Are Forever",
@@ -204,8 +182,7 @@
         "movieTitle3": "Murder on the Orient Express",
         "movieTitle4": "Cuba",
         "correctAnswer": 2
-    },
-    
+    }, 
         {
         "quote": "Ah, shit on a stick.",
         "movieTitle1": "The Presidio",
@@ -214,7 +191,6 @@
         "movieTitle4": "A Bridge Too Far",
         "correctAnswer": 1
     },
-
         {
         "quote": "Never take what the enemy offers you.",
         "movieTitle1": "The Untouchables",
@@ -222,8 +198,7 @@
         "movieTitle3": "Rising Sun",
         "movieTitle4": "The League of Extraordinary Gentlemen",
         "correctAnswer": 3
-    },
-    
+    }, 
         {
         "quote": "There's a peace only to be found on the other side of war. If that war should come I will fight it!",
         "movieTitle1": "A Bridge Too Far",
@@ -232,7 +207,6 @@
         "movieTitle4": "First Knight",
         "correctAnswer": 4
     },
-
         {
         "quote": "You just fulfilled the first rule of law enforcement: make sure when your shift is over you go home alive.",
         "movieTitle1": "The Untouchable",
@@ -240,8 +214,7 @@
         "movieTitle3": "The League of Extraordinary Gentlemen",
         "movieTitle4": "The Presidio",
         "correctAnswer": 1
-    },
-    
+    }, 
         {
         "quote": "And if it's true love, then you start to see yourself through their eyes. And it brings out the best in you. It's almost as if you're falling in love with yourself.",
         "movieTitle1": "You Only Live Twice",
@@ -250,7 +223,6 @@
         "movieTitle4": "Cuba",
         "correctAnswer": 2
     },
-
         {
         "quote": "You risked your life for another. There is no greater love.",
         "movieTitle1": "First Knight",
@@ -258,8 +230,7 @@
         "movieTitle3": "A Good Man in Africa",
         "movieTitle4": "DragonHeart",
         "correctAnswer": 1
-    },
-    
+    },  
         {
         "quote": "There are laws that enslave men, and laws that set them free.",
         "movieTitle1": "Outland",
@@ -268,7 +239,6 @@
         "movieTitle4": "Highlander",
         "correctAnswer": 3
     },
-
         {
         "quote": "Only a fool wants what he can not have.",
         "movieTitle1": "Highlander",
@@ -277,7 +247,6 @@
         "movieTitle4": "First Knight",
         "correctAnswer": 4
     },
-    
         {
         "quote": "Monkeys do not laugh. Laughter is particular to man.",
         "movieTitle1": "Outland",
@@ -286,7 +255,6 @@
         "movieTitle4": "Zardoz",
         "correctAnswer": 3
     },
-
         {
         "quote":  "You won't be needing this, old man!",
         "movieTitle1":  "From Russia with Love",
@@ -294,8 +262,7 @@
         "movieTitle3":  "You Only Live Twice",
         "movieTitle4":  "Murder on the Orient Express",
         "correctAnswer": 1
-    },
-    
+    },  
         {
         "quote": "I can assure you, my intentions are strictly honorable.",
         "movieTitle1": "Playing by Heart",
@@ -304,7 +271,6 @@
         "movieTitle4": "Dr. No",
         "correctAnswer": 4
     },
-
         {
         "quote": "My dear girl, don't flatter yourself. What I did this evening was for king and country. You don't think it gave me any pleasure, do you?",
         "movieTitle1": "From Russia with Love",
@@ -312,8 +278,7 @@
         "movieTitle3": "Dr. No",
         "movieTitle4": "Diamonds Are Forever",
         "correctAnswer": 2
-    },
-    
+    }, 
         {
         "quote": "I think he got the point.",
         "movieTitle1": "Rising Sun",
@@ -322,7 +287,6 @@
         "movieTitle4": "DragonHeart",
         "correctAnswer": 3
     },
-
         {
         "quote": "We must have a few fast falls together some time",
         "movieTitle1": "Dr. No",
@@ -331,7 +295,6 @@
         "movieTitle4": "Never Say Never Again",
         "correctAnswer": 1
     },
-    
         {
         "quote": "My dear girl, there are some things that just aren't done, such as drinking Dom Perignon '53 above the temperature of 38 degrees Fahrenheit. That's just as bad as listening to the Beatles without earmuffs!",
         "movieTitle1": "From Russia with Love",
@@ -340,7 +303,6 @@
         "movieTitle4": "Goldfinger",
         "correctAnswer": 4
     },
-
         {
         "quote": "Presumably I'm the condemned man and obviously you're the hearty breakfast.",
         "movieTitle1": "Diamonds Are Forever",
@@ -349,7 +311,6 @@
         "movieTitle4": "The League of Extraordinary Gentlemen",
         "correctAnswer": 1
     },
-    
         {
         "quote": "What's the Americans' story on how the damn things were stolen?",
         "movieTitle1": "Diamonds Are Forever",
@@ -358,7 +319,6 @@
         "movieTitle4": "Entrapment",
         "correctAnswer": 2
     },
-
         {
         "quote": "I thought everyone knew that God was a Scotsman.",
         "movieTitle1": "Dr. No",
@@ -367,7 +327,6 @@
         "movieTitle4": "A Bridge Too Far",
         "correctAnswer": 4
     },
-    
         {
         "quote": "That's a Smith & Wesson, and you've had your six.",
         "movieTitle1": "The Untouchables",
