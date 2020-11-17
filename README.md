@@ -128,7 +128,9 @@
         *   2 	startQuiz
         *   3   getNewQuote
         *   2   incrementScore
-*   Techsini [link](http://ami.responsivedesign.is/) Multiple Device Mockup Generator
+/*jshint esversion: 6*/
+
+*   Am I responsive [link](http://ami.responsivedesign.is/) Multiple Device Mockup Generator
 
 ## Deployment
 

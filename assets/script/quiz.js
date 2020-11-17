@@ -1,3 +1,4 @@
+/*jshint esversion: 6*/
 // Based on Youtube tutorial "Build a Quiz App with HTML, CSS, and JavaScript" by James Q Quick
 
 // Get classes and ids and store them in variables by traversing the DOM.
