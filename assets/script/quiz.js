@@ -31,7 +31,7 @@ fetch("assets/script/quotes.json")
 
 // Constants
 const CORRECT_SCORE = 1;
-const MAX_QUOTES = 10;
+const MAX_QUOTES = 5;
 
 // Quiz start set-up 
 startQuiz = () => {
@@ -49,7 +49,7 @@ getNewQuote = () => {
     if (availableQuotes.length === 0 || quoteCounter >= MAX_QUOTES) {
         localStorage.setItem("mostRecentScore", score);
 
-        return window.location.assign("/end.html");
+        return window.location.assign("../end.html");
     }
 
     quoteCounter++;
