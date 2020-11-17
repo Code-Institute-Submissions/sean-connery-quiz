@@ -1,3 +1,4 @@
+/*jshint esversion: 6*/
 // Get id "total-score from the DOM"
 const totalScore = document.getElementById("total-score");
 
