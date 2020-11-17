@@ -49,7 +49,7 @@ getNewQuote = () => {
     if (availableQuotes.length === 0 || quoteCounter >= MAX_QUOTES) {
         localStorage.setItem("mostRecentScore", score);
 
-        return window.location.assign("../end.html");
+        return window.location.assign("end.html");
     }
 
     quoteCounter++;
