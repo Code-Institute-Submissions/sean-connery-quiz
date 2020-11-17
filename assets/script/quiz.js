@@ -31,7 +31,7 @@ fetch("assets/script/quotes.json")
 
 // Constants
 const CORRECT_SCORE = 1;
-const MAX_QUOTES = 5;
+const MAX_QUOTES = 10;
 
 // Quiz start set-up 
 startQuiz = () => {
