@@ -1,3 +1,5 @@
+// Based on Youtube tutorial "Build a Quiz App with HTML, CSS, and JavaScript" by James Q Quick
+
 // Get classes and ids and store them in variables by traversing the DOM.
 const quote = document.getElementById("quote");
 const movieTitles = Array.from(document.getElementsByClassName("movie-title-text"));
@@ -29,7 +31,7 @@ fetch("assets/script/quotes.json")
 
 // Constants
 const CORRECT_SCORE = 1;
-const MAX_QUOTES = 5;
+const MAX_QUOTES = 10;
 
 // Quiz start set-up 
 startQuiz = () => {

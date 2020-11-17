@@ -8,7 +8,11 @@
 
 .score-text {
     font-size: 1.5rem;
-    margin-top: 0.3rem;
+    margin-top: 0.5rem;
+}
+
+.score-number {
+    padding-left: 2rem;
 }
 
 /* -------- Image -------- */
@@ -25,15 +29,18 @@
 
 /* -------- Media Queries -------- */
 
+@media screen and (max-width: 500px) {
+    .score-text {
+        padding-left: 1.5rem;
+    }
+}
+
 @media (min-width: 768px) {
     .score-number {
-        padding-right: 3rem;
+        font-size: 3rem;
     }
     .score-text {
         font-size: 2rem;
-    }
-    .score-number {
-        font-size: 3rem;
     }
 }
 
