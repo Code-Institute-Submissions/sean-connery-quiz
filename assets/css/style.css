@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700;800&display=swap');
 
 /* -------- default settings -------- */
@@ -45,9 +52,16 @@ body {
 .start-btn:hover,
 .start-btn:active {
     cursor: pointer;
-    box-shadow: 0 0.2rem 1rem 0 rgb(241, 190, 122);
-    transform: translateY(-0.1rem);
+    -webkit-box-shadow: 0 0.2rem 1rem 0 rgb(241, 190, 122);
+            box-shadow: 0 0.2rem 1rem 0 rgb(241, 190, 122);
+    -webkit-transform: translateY(-0.1rem);
+        -ms-transform: translateY(-0.1rem);
+            transform: translateY(-0.1rem);
+    -webkit-transition: -webkit-transform 150ms;
+    transition: -webkit-transform 150ms;
+    -o-transition: transform 150ms;
     transition: transform 150ms;
+    transition: transform 150ms, -webkit-transform 150ms;
 }
 
 .start-btn-text {

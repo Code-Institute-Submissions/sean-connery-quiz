@@ -1,8 +1,11 @@
 # Sean Connery Movie Quotes Quiz
 
-*   A quiz game created as a tribute to Sir Thomas Sean Connery for his great perfomances on the big screen.
-    The goal is to connect a quote, made by a Sean Connery movie character, to the corresponding film title from where the quote was taken.
-    Points are given for each correct answer.
+![Multiple Device Mockup Generator](assets/images/Mockup.png)
+
+
+**A quiz game created as a tribute to Sir Thomas Sean Connery for his great perfomances on the big screen.
+The goal is to connect a quote, made by a Sean Connery movie character, to the corresponding film title from where the quote was taken.
+Points are given for each correct answer.**
 
 ## UX
 
@@ -19,6 +22,8 @@
 *   The user would want clear instructions of what to do and how to navigate in the application.
     Therefore, a short but distinct description of what the quiz is about will be displayed on the landing page.
     The clearly defined buttons will then guide the user to achieve his/her goal.
+
+
 
 *   If there is a delay when the Game Board is being loaded, the user would want to know what to expect.
     An animated "loader" is displayed to let the user know that the page is loading.
@@ -113,10 +118,35 @@
 
 ## Testing
 
+*   Markup Validation Service [(link)](https://validator.w3.org/)
+    *   Choose Validate by Direct Input.
+    *   Copy Paste the HTML into the validator.
+    *   index.HTML Test result:
+        *  No Warnings
+    *   quiz.HTML Test result:
+        *   Warning: Empty heading.
+        *   From line 31, column 29; to line 31, column 77
+        *   Heading text will be added with javaScript. 
+    *   end.html Test result:
+        *   Warning: Empty heading.
+        *   From line 23, column 25; to line 23, column 66
+        *   Heading text will be added with javaScript.
+
+*   CSS Validation Service [(link)](https://jigsaw.w3.org/css-validator/)
+    *   Choose By direct input.
+    *   Copy Paste the CSS into the validator.
+    *   index.css Test result:
+        *  No Error Found
+    *   quiz.css Test result:
+        *  No Error Found    
+    *   end.css Test result:
+        *  No Error Found
+
 *   jshint [(link)](https://jshint.com/) JavaScript Code Test.
     
     *   Copy the JavaScript cod and paste it into the js hint website.
     *   The result will be displayed in the column nex to your code.
+    *   There should be no errors and severe warnings.
     *   Test result: 36 Warnings:
         *   15  'const' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz).
         *   6 	'let' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz).
@@ -128,12 +158,23 @@
         *   2 	startQuiz
         *   3   getNewQuote
         *   2   incrementScore
-/*jshint esversion: 6*/
+    *   Test result after adding ```/*jshint esversion: 6*/``` to the files:
+        *   2   ['number'] is better written in dot notation.
+*   Lighthouse
+    *   Right click on the webpage and hit inspect. Click >> button on top bar. Select Lighthouse. Click the Generate report button.
+    *   Greens icons equal good result. The higher percentage the better.
+    *   Test result:
 
-*   Am I responsive [link](http://ami.responsivedesign.is/) Multiple Device Mockup Generator
+
+![Lighthouse Test Result](assets/images/Lighthouse.png)
+
+*   Am I responsive [(link)](http://ami.responsivedesign.is/) Multiple Device Mockup Generator
+
+*   Autoprefixer CSS Online [(link)](https://autoprefixer.github.io/)
+    *   Copy the CSS code and paste into the Autoprefixer, then click Apply button.
+    *   Copy the CSS code with the added vendor prefixes in the right column and paste it back into the CSS file.
 
 ## Deployment
-
 
 *   To make my website accessible to the public I deployed it on Github .
     * I did so by:
@@ -148,7 +189,6 @@
         *   Wait for the page to refresh
         *   scroll down to Github Pages once more
         *   Find Site URL and copy it.
-
 
 ## Credits
 
