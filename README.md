@@ -51,7 +51,7 @@ Points are given for each correct answer.**
 
 *   The aim is toward a neat and cinematic design, with the focus upon the quiz game and the character's quotes.
 
-*   Wirefames can be viewed [here](assets/wireframes/sean-connery-movie-quote-quiz.pdf)
+*   Wirefames can be viewed [here](wireframes/sean-connery-movie-quote-quiz.pdf)
 
 ## Features
 
