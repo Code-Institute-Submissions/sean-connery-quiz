@@ -198,18 +198,17 @@
 
 @media (min-width: 1600px) {
     .quote-box {
-        left: 40rem;
-        right: 40rem;
+        left: 35rem;
+        right: 35rem;
   }
 }
 
 @media (min-width: 1800px) {
     .quote-box {
-        left: 50rem;
-        right: 50rem;
+        left: 40rem;
+        right: 40rem;
   }
 }
-
 
 /* -------- LoaderLoader from Codepen (lauraedw/pen/RPOoJy) -------- */
 
